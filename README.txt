@@ -15,6 +15,5 @@ task2
 task3
 	校验36-55
 	有很多无信息文章
-task3_extra
-	由于task3规范了很多note上的表述，因此可能存在回溯问题
-	extra对之前的文章的note进行了规范
+task4
+	无备注
